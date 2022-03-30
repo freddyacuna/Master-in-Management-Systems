@@ -1,4 +1,4 @@
-# Introducción a Python para las Finanzas (Last Update: March 2022)
+# BUSINESS ANALYTICS (Last Update: March 2022)
 
 ## Descripción del Curso
 
@@ -43,13 +43,21 @@ Clases teóricas y prácticas en las que el profesor cubrirá los contenidos de 
 ## Lecturas Recomendadas
 
 • [Acito and Khatri, 2014] Acito, F. and Khatri, V. (2014). Business analytics: Why now and what next? Business Horizons, 57(5):565 – 570.
+
 • [Bergstra and Bengio, 2012] Bergstra, J. and Bengio, Y. (2012). Random search for hyperparameter optimization. J. Mach. Learn. Res., 13(1):281–305.
+
 • [Bergstra et al., 2011] Bergstra, J. S., Bardenet, R., Bengio, Y., and Kégl, B. (2011). Algorithms for hyper-parameter optimization. In Shawe-Taylor, J., Zemel, R. S., Bartlett, P. L., Pereira, F., and
+
 • Weinberger, K. Q., editors, Advances in Neural Information Processing Systems 24, pages 2546– 2554. Curran Associates, Inc.
+
 • [Bertsekas, 1999] Bertsekas, D. (1999). Nonlinear Programming. Athena Scientific.
+
 • [Bishop, 2006] Bishop, C. M. (2006). Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg.
+
 • [Bottou et al., 2016] Bottou, L., Curtis, F. E., and Nocedal, J. (2016). Optimization Methods for Large-Scale Machine Learning. ArXiv e-prints.
+
 • [Brochu et al., 2010] Brochu, E., Cora, V. M., and de Freitas, N. (2010). A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning. ArXiv e-prints.
+
 • [Cauchy, 1847] Cauchy, A. (1847). Méthode générale pour la résolution des systems d’équations  simultanées. Comp. Rend. Sci. Paris, 25(1847):536–538.
 • [Chen et al., 2011] Chen, S., Härdle, W. K., and Moro, R. A. (2011). Modeling default risk with support vector machines. Quantitative Finance, 11(1):135– 154.
 • [Chollet, 2017] Chollet, F. (2017). Deep Learning with Python. Manning Publications Co.,Greenwich, CT, USA, 1st edition.
